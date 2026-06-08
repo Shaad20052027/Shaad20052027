@@ -1,24 +1,139 @@
-# 💫 About Me:
-Hi there! 👋<br><br>🎓 B.Tech IT Student<br>💻 MERN Stack Developer<br>🧩 Solved 300+ DSA Problems Across LeetCode, Coding Ninjas & Other Platforms<br>🏆 230+ Problems Solved on LeetCode<br>🚀 Passionate About Backend Development and Scalable Web Applications<br>🌱 Currently Enhancing DSA, System Design, and Full-Stack Development Skills<br><br>📫 Open to Internship & Placement Opportunities<br><br>"Turning ideas into code, one commit at a time."<br>
+<div align="center">
 
+```
+███████╗██╗  ██╗ █████╗  █████╗ ██████╗
+██╔════╝██║  ██║██╔══██╗██╔══██╗██╔══██╗
+███████╗███████║███████║███████║██║  ██║
+╚════██║██╔══██║██╔══██║██╔══██║██║  ██║
+███████║██║  ██║██║  ██║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝
+```
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Shaad_2005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ www.linkedin.com/in/mohd-shaad-siddiqui-797a9a329) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaadwork108@gmail.com) 
+# Hey, I'm Mohd Shaad Siddiqui 👋
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Shaad20052027&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Shaad20052027&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shaad20052027&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Full-Stack Developer · MERN Stack · DSA Enthusiast**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shaad20052027&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-shaad-siddiqui-797a9a329)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shaad2005/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaadwork108@gmail.com)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Shaad20052027&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+I'm a MERN stack developer who loves building clean, scalable web applications — from pixel-perfect frontends to solid backend APIs. Outside of development, I actively practice DSA on LeetCode with **300+ problems solved** and a max rating of **1590**.
+
+Currently focused on deepening my backend skills, building production-quality projects, and grinding towards my next rating milestone.
+
+> *"Code is craft. Ship with intention."*
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+![College](https://img.shields.io/badge/GL_Bajaj_Institute_of_Technology_&_Management-0a0a0a?style=for-the-badge&logoColor=white)
+![Branch](https://img.shields.io/badge/B.Tech_–_Information_Technology-1e1e2e?style=for-the-badge&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA_–_8.47-22c55e?style=for-the-badge&logoColor=white)
+![Year](https://img.shields.io/badge/Graduating_–_2027-6366f1?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+## ⚔️ Competitive Programming
+
+<div align="center">
+
+| Platform | Achievement |
+|----------|-------------|
+| 🟠 **LeetCode** | Max Rating **1590** · 300+ Problems Solved |
+
+[![LeetCode](https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shaad2005/)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github,vscode&theme=dark" />
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</td>
+<td align="center" width="50%">
+
+### ⚙️ Backend & DB
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| 💬 **Streamify** | Real-time 1-on-1 chat & video calling application | MERN · Socket.io · WebRTC | [GitHub](https://github.com/Shaad20052027/Streamify) |
+| 🎧 **TinnitusTuner** | AI-powered tinnitus relief app using sound therapy | MERN · Gemini AI · Web Audio API | [GitHub](https://github.com/Shaad20052027/tinnitustuner) |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shaad20052027&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=6366f1&icon_color=22c55e&text_color=a0a0a0" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaad20052027&theme=tokyonight&hide_border=true&background=0d0d0d&ring=6366f1&fire=22c55e&currStreakLabel=a0a0a0" width="48%" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+Got a project idea, want to collaborate, or just want to talk code?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-shaad-siddiqui-797a9a329)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shaad2005/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaadwork108@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Shaad20052027&color=6366f1&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:6366f1&height=80&section=footer" width="100%" alt="Footer"/>
+
+</div>
