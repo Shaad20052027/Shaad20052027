@@ -109,8 +109,8 @@ Currently focused on deepening my backend skills, building production-quality pr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shaad20052027&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaad20052027&theme=tokyonight&hide_border=true&background=0d0d0d&ring=6366f1&fire=22c55e&currStreakLabel=a0a0a0" width="48%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Shaad20052027&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaad20052027&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" alt="Top Languages"/>
 
 </div>
 
