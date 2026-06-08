@@ -98,7 +98,7 @@ Currently focused on deepening my backend skills, building production-quality pr
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| 💬 **Streamify** | Real-time 1-on-1 chat & video calling application | MERN · Socket.io · WebRTC | [GitHub](https://github.com/Shaad20052027/Streamify) |
+| 💬 **Streamify** | Real-time 1-on-1 chat & video calling application | MERN · Stream API | [GitHub](https://github.com/Shaad20052027/Streamify) |
 | 🎧 **TinnitusTuner** | AI-powered tinnitus relief app using sound therapy | MERN · Gemini AI · Web Audio API | [GitHub](https://github.com/Shaad20052027/tinnitustuner) |
 
 </div>
@@ -109,8 +109,7 @@ Currently focused on deepening my backend skills, building production-quality pr
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Shaad20052027&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaad20052027&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" alt="Top Languages"/>
+<img src="https://streak-stats.demolab.com?user=Shaad20052027&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak"/>
 
 </div>
 
