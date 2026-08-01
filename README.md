@@ -24,7 +24,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a MERN stack developer who loves building clean, scalable web applications — from pixel-perfect frontends to solid backend APIs. Outside of development, I actively practice DSA on LeetCode with **300+ problems solved** and a max rating of **1590**.
+I'm a MERN stack developer who loves building clean, scalable web applications — from pixel-perfect frontends to solid backend APIs. Outside of development, I actively practice DSA on coding platform with **350+ problems solved** and a max rating of **1550** on leetcode.
 
 Currently focused on deepening my backend skills, building production-quality projects, and grinding towards my next rating milestone.
 
@@ -51,7 +51,7 @@ Currently focused on deepening my backend skills, building production-quality pr
 
 | Platform | Achievement |
 |----------|-------------|
-| 🟠 **LeetCode** | Max Rating **1590** · 300+ Problems Solved |
+| 🟠 **LeetCode** | Max Rating **1550** · 350+ Problems Solved |
 
 [![LeetCode](https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shaad2005/)
 
